@@ -1,0 +1,15 @@
+.wrapper {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.about {
+    width: 40%;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.about > span {
+    font-family: 'Lato';
+}

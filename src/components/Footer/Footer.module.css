@@ -1,0 +1,23 @@
+.wrapper {
+    margin-top: 50px;
+    padding: 20px 0 20px 0;
+    border-top: 1px dashed #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo > span {
+    display: inline-block;
+    font-family: 'Lato';
+    font-size: 15px;
+}
+
+.logoImage {
+    max-width: 40px;
+}
